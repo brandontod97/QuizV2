@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question_sky">The sky is blue.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    //questions
+    <string name="question_fallout3_year">Fallout 3 released int 2008.</string>
+    <string name="question_atari_name">Atari means \"Success\".</string>
+    <string name="question_mario_flagpole">Mario jumps on a flag pole at the end of a level.</string>
+    <string name="question_mario_name">Mario\'s name in Donkey Kong is \"Jumpman\".</string>
+    <string name="quesiton_link_speak">Link never speaks.</string>
+    <string name="question_pokemon_name">Pokemon stands for \"Pocket Monsters\".</string>
+</resources>
