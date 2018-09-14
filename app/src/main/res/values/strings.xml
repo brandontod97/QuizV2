@@ -4,6 +4,7 @@
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
 
@@ -12,6 +13,6 @@
     <string name="question_atari_name">Atari means \"Success\".</string>
     <string name="question_mario_flagpole">Mario jumps on a flag pole at the end of a level.</string>
     <string name="question_mario_name">Mario\'s name in Donkey Kong is \"Jumpman\".</string>
-    <string name="quesiton_link_speak">Link never speaks.</string>
+    <string name="quesiton_link_speak">Link somtimes speaks.</string>
     <string name="question_pokemon_name">Pokemon stands for \"Pocket Monsters\".</string>
 </resources>
